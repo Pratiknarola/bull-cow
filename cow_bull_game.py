@@ -24,7 +24,7 @@ while megaloop:
             print("incorrect input")
             break
         print("Computer has guessed " + n + " digit number")
-        print(number)
+        
         loop = True
         while loop:
             guess = input("Enter a number(exit to exit): ")
